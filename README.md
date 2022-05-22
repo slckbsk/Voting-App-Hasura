@@ -1,1 +1,1 @@
-# Voting-App-Hasura
+# Voting-App-Hasura-React
